@@ -1,4 +1,4 @@
-# Flo-Rfm-Analysis
+# Flo-Rfm-Analysis_ and Customer-Life-Time-Value
 
 FLO, an online shoe store, aims to segment its customers and determine marketing strategies tailored to these segments. For this purpose, customer behaviors will be identified, and groups will be formed based on clustering in these behaviors.
 
